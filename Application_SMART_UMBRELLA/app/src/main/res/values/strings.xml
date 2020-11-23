@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application_SMART_UMBRELLA</string>
+    <string name="control">CONTROL</string>
+    <string name="sensor">SENSOR</string>
+</resources>
